@@ -1,0 +1,36 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #1AE6E6;
+}
+h2 {
+  font-size: 45px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #1AE6E6;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-image: url(keji.jpg);
+    padding: 0 20px 20px 20px;
+  }
+image {
+  display: block;
+  margin: 0 auto;
+}
+button {
+  background-color: orange;
+  border: none;
+  padding: 15px 32px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 124px;
+  margin-top: 20px;
+}
